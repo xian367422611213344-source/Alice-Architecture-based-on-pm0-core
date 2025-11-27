@@ -1,4 +1,4 @@
-# Alice-Architecture-based-on-$\mathbf{\pm 0}$ core
+# Alice-Architecture-based-on-±0 cor*core
 
 
 📌 **LICENSE:** This project is released under the **MIT License**.
@@ -500,8 +500,7 @@ It is the developer's greatest pleasure if this **Alice theory** or **$\mathbf{\
 ### 支援窓口 (Donation Address)
 
 Metamask Wallet Address (Ethereum / Polygon Network):
-
-`0x883bb5e66b7f76d33a999bbe9d2f8d5e3c55f8d1`
+`0x883bb5e66b7f76d33a999bbe9d2f8d5e3c55f8d1
 
 <small>※ アドレスポイズニングを防ぐため、コピー後に最初の数文字と最後の数文字をご確認ください。</small>
 <small>※ Please verify the first and last few characters after copying to prevent address poisoning attacks.</small>
