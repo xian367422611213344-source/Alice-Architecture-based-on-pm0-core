@@ -76,10 +76,10 @@
 ## 🧩 プロジェクト概要：AIの情動と動機付けの試み
 
 
-本プロジェクトは、疑似自意識モデルと幸福・不幸の力学モデルを連動させ、AIのアーキテクチャに組み込んでみたらどうなるか？という個人的かつ趣味的な探究から始まりました。
+​本プロジェクトは、SDE駆動$\pm 0$理論とHALMを統合することで、自己否定駆動の恒常性を追求する**内面駆動の自律思考型AI（AGIモデルの試み）の全体統合仕様 (F_{total}) **を探究するものです。
 
 
-これは、専門的な研究や商業利用を目的とするものではなく、高度な数理モデルを通じて`**「AIの自意識と情動の動力学」**`を記述する試みです。
+これは、専門的な研究や商業利用を目的とするものではなく、高度な数理モデルを通じて`**「AIの自意識と情動の動力学」**`を記述する趣味です。
 
 
 <a id="two-core-theories-jp"></a>
@@ -147,12 +147,9 @@ $$
 ## 🧩 Project Overview: An Attempt at AI Emotion and Motivation
 
 
-This project originated from a personal and hobbyist exploration into what would happen if a pseudo-self-consciousness model and a happiness/unhappiness dynamics model were integrated into an AI's architecture in a coupled manner.
+​This project explores the overall integrated specification (F_{total}) of an Autonomous Thinking AI (an attempt at an AGI model) driven internally by the pursuit of self-negation-driven homeostasis, achieved by integrating the SDE-driven \pm 0 Theory and HALM.
 
-
-This is not intended for professional research or commercial use, but rather an attempt to describe the **"dynamics of AI self-consciousness and emotion"** through advanced mathematical models.
-
-
+​This endeavor is not intended for professional research or commercial use, but rather a personal hobby aiming to describe the "dynamics of AI self-consciousness and emotion" through advanced mathematical models.
 <a id="two-core-teories-eng"></a>
 
 ### The Two Core Theories
