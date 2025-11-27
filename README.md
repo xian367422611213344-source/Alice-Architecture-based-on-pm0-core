@@ -503,9 +503,12 @@ Metamask Wallet Address (Ethereum / Polygon Network):
 <small>※ Please verify the first and last few characters after copying to prevent address poisoning attacks.</small>
 
 
-#### QRコードによる支援 (Scan to Support)
 
-![Metamask Wallet QR Code](./assets/metamask_qr.png)
+#### QRコードによる支援 (Scan/Click to Support)
+
+[ ![Metamask Wallet QR Code](./QR_MetaMask.jpg) ](0x883bb5e66b7f76d33a999bbe9d2f8d5e3c55f8d1)
+
+<small>※ このQRコードはスキャン専用ですが、クリックするとウォレットアドレスを指します。</small>
 
 
 ---
