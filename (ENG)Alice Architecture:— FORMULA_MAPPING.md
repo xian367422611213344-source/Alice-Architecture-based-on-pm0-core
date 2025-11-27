@@ -1,4 +1,4 @@
-# 📘 Alice Architecture: Integrated Logic Final Specification for Emotion, Personality, and Intelligence — FORMULA_MAPPING.md
+# 📘 Alice Architecture: Integrated Logic Final Specification for Emotion, Personality, and Intelligence — FORMULA_MAPPING
 
 The purpose of this document is to completely clarify the self-stabilization mechanism of the Alice Architecture system by clearly mapping all core mathematical model elements to their functional roles, evolutionary rules, and underlying design philosophy.
 
