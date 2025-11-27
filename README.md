@@ -503,6 +503,11 @@ Metamask Wallet Address (Ethereum / Polygon Network):
 <small>※ Please verify the first and last few characters after copying to prevent address poisoning attacks.</small>
 
 
+#### QRコードによる支援 (Scan to Support)
+
+![Metamask Wallet QR Code](./assets/metamask_qr.png)
+
+
 ---
 
 
