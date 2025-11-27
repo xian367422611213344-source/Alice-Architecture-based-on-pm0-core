@@ -1,4 +1,4 @@
-# Alice-Architecture-based-on-±0 cor*core
+# Alice-Architecture-based-on-±0 core
 
 
 📌 **LICENSE:** This project is released under the **MIT License**.
