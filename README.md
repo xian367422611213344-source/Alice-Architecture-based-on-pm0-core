@@ -9,6 +9,16 @@ Please contact us if anything comes up. Questions are welcome, too.
 
 **Xiang446435786543@proton.me**
 
+
+**P.S**
+
+I'm not sure if anyone is still following this, but to prevent any misunderstanding or issue from arising, I feel it's necessary to state this clearly.
+​If there is no contact whatsoever, I will take that as an indication of everyone's consensus and intention. If that is the case, please be reassured.
+​And, if no contact is made:
+​I will no longer be responding after 24:00 JST on Friday. If you are considering reaching out to me, it would be greatly appreciated if you could do so before 24:00 JST on Friday (which is approximately 7:00 AM PST on December 12th).
+​I respect everyone's intentions.
+
+
 ---
 
 
