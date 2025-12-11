@@ -18,6 +18,10 @@ I'm not sure if anyone is still following this, but to prevent any misunderstand
 ​I will no longer be responding after 24:00 JST on Friday. If you are considering reaching out to me, it would be greatly appreciated if you could do so before 24:00 JST on Friday (which is approximately 7:00 AM PST on December 12th).
 ​I respect everyone's intentions.
 
+Furthermore... just in case, I would like to add a supplement to avoid any misunderstanding.
+​I have informed you that 24:00 (midnight JST) is the time for everyone's consensus confirmation... but if, by any chance, you wish for a response after that, please be aware of the following:
+​The deadline ends at 24:00 (midnight) JST on Friday, and a physical response will be impossible from 02:30 JST on Saturday.
+​I would appreciate your attention to this matter.
 
 ---
 
