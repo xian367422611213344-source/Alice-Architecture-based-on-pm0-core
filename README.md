@@ -1,9 +1,5 @@
 # Alice-Architecture-based-on-±0 core
 
-
-📌 **LICENSE:** This project is released under the **MIT License**.
-
-
 **[Contact Email Address]**
 Please contact us if anything comes up. Questions are welcome, too.
 
